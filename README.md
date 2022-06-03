@@ -1,24 +1,13 @@
-# README
+### Create an app that lists employees
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Employee Model -> name, position
 
-Things you may want to cover:
+# MODEL -> a 'thing' in our app
 
-* Ruby version
+# Models in Rails (and in MVC) know how to interact with the database
 
-* System dependencies
+# It does all of the business logic
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Controller
+# Traffic Cop
+# Gets requests from the model
